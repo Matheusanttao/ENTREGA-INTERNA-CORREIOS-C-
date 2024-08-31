@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|c:\\users\\agf\\desktop\\8.0\\correios\\correios\\excluirlan\u00E7amento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\excluirlan\u00E7amento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|c:\\users\\agf\\desktop\\8.0\\correios\\correios\\excluirlan\u00E7amento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\excluirlan\u00E7amento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|c:\\users\\agf\\desktop\\8.0\\correios\\correios\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\editarentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\editarentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\editarentrega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\editarentrega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\editarentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\editarentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|c:\\users\\agf\\desktop\\8.0\\correios\\correios\\excluirlan\u00E7amento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\excluirlan\u00E7amento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|c:\\users\\agf\\desktop\\8.0\\correios\\correios\\relatoriotodosdias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\relatoriotodosdias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\listarentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\listarentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|c:\\users\\agf\\desktop\\8.0\\correios\\correios\\relatoriotodosdias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\relatoriotodosdias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\listarentregasbaixadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\listarentregasbaixadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\listarentregasbaixadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\listarentregasbaixadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\listarentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\listarentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|c:\\users\\agf\\desktop\\8.0\\correios\\correios\\listarentregas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\listarentregas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\cadastroentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\cadastroentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\cadastroentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\cadastroentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|c:\\users\\agf\\desktop\\8.0\\correios\\correios\\relatoriotodosdias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\relatoriotodosdias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\baixarentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\baixarentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\baixarentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\baixarentregas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\calcularprazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\calcularprazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\calcularprazo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\calcularprazo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\listarentregasbaixadas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\listarentregasbaixadas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\baixarentregas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\baixarentregas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\cadastroentrega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F79A990-7BF0-4464-BC92-9799E64E9CC3}|correios\\correios.csproj|solutionrelative:correios\\cadastroentrega.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\relatorioentregasdiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:correios\\relatorioentregasdiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AGF\\Desktop\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\relat\u00F3riomensal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AGF\\Desktop\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\relat\u00F3riomensal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcluirLan\u00E7amento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\ExcluirLan\u00E7amento.cs",
+              "RelativeDocumentMoniker": "correios\\ExcluirLan\u00E7amento.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\ExcluirLan\u00E7amento.cs [Design]",
+              "RelativeToolTip": "correios\\ExcluirLan\u00E7amento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:43:28.022Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Listarentregasbaixadas.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregasbaixadas.cs",
+              "RelativeDocumentMoniker": "correios\\Listarentregasbaixadas.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregasbaixadas.cs",
+              "RelativeToolTip": "correios\\Listarentregasbaixadas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:35:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Menu.cs",
+              "RelativeDocumentMoniker": "correios\\Menu.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Menu.cs [Design]",
+              "RelativeToolTip": "correios\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:59:16.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Menu.cs",
+              "RelativeDocumentMoniker": "correios\\Menu.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Menu.cs",
+              "RelativeToolTip": "correios\\Menu.cs",
+              "ViewState": "AQIAAEUBAAAAAAAAAAAowF0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:59:18.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Menu.Designer.cs",
+              "RelativeToolTip": "correios\\Menu.Designer.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAIwJsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:33:17.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditarEntrega.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\EditarEntrega.cs",
+              "RelativeDocumentMoniker": "correios\\EditarEntrega.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\EditarEntrega.cs [Design]",
+              "RelativeToolTip": "correios\\EditarEntrega.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:56:10.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\EditarEntrega.cs",
+              "RelativeDocumentMoniker": "correios\\EditarEntrega.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\EditarEntrega.cs",
+              "RelativeToolTip": "correios\\EditarEntrega.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAmwKAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:10:48.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarEntrega.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\EditarEntrega.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\EditarEntrega.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\EditarEntrega.Designer.cs",
+              "RelativeToolTip": "correios\\EditarEntrega.Designer.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAIwP8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:11:50.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcluirLan\u00E7amento.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\ExcluirLan\u00E7amento.cs",
+              "RelativeDocumentMoniker": "correios\\ExcluirLan\u00E7amento.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\ExcluirLan\u00E7amento.cs",
+              "RelativeToolTip": "correios\\ExcluirLan\u00E7amento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:44:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Listarentregasbaixadas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregasbaixadas.cs",
+              "RelativeDocumentMoniker": "correios\\Listarentregasbaixadas.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregasbaixadas.cs [Design]",
+              "RelativeToolTip": "correios\\Listarentregasbaixadas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:34:13.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcluirLan\u00E7amento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\ExcluirLan\u00E7amento.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\ExcluirLan\u00E7amento.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\ExcluirLan\u00E7amento.Designer.cs",
+              "RelativeToolTip": "correios\\ExcluirLan\u00E7amento.Designer.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAIwAABAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:45:48.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Relatoriotodosdias.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Relatoriotodosdias.cs",
+              "RelativeDocumentMoniker": "correios\\Relatoriotodosdias.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Relatoriotodosdias.cs [Design]",
+              "RelativeToolTip": "correios\\Relatoriotodosdias.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:24:21.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Listarentregas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregas.cs",
+              "RelativeDocumentMoniker": "correios\\Listarentregas.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregas.cs [Design]",
+              "RelativeToolTip": "correios\\Listarentregas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:08:39.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Relatoriotodosdias.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Relatoriotodosdias.cs",
+              "RelativeDocumentMoniker": "correios\\Relatoriotodosdias.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Relatoriotodosdias.cs",
+              "RelativeToolTip": "correios\\Relatoriotodosdias.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:24:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Listarentregas.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregas.cs",
+              "RelativeDocumentMoniker": "correios\\Listarentregas.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregas.cs",
+              "RelativeToolTip": "correios\\Listarentregas.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAqwJ8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:32:04.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Listarentregas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregas.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\Listarentregas.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregas.Designer.cs",
+              "RelativeToolTip": "correios\\Listarentregas.Designer.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAIwHsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:38:13.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CadastroEntrega.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CadastroEntrega.cs",
+              "RelativeDocumentMoniker": "correios\\CadastroEntrega.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CadastroEntrega.cs [Design]",
+              "RelativeToolTip": "correios\\CadastroEntrega.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:58:06.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Program.cs",
+              "RelativeDocumentMoniker": "correios\\Program.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Program.cs",
+              "RelativeToolTip": "correios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:51:21.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Relatoriotodosdias.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Relatoriotodosdias.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\Relatoriotodosdias.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Relatoriotodosdias.Designer.cs",
+              "RelativeToolTip": "correios\\Relatoriotodosdias.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwC0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:31:30.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaixarEntregas.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\BaixarEntregas.cs",
+              "RelativeDocumentMoniker": "correios\\BaixarEntregas.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\BaixarEntregas.cs",
+              "RelativeToolTip": "correios\\BaixarEntregas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:34:15.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CadastroEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CadastroEntrega.cs",
+              "RelativeDocumentMoniker": "correios\\CadastroEntrega.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CadastroEntrega.cs",
+              "RelativeToolTip": "correios\\CadastroEntrega.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAgwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:58:14.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaixarEntregas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\BaixarEntregas.cs",
+              "RelativeDocumentMoniker": "correios\\BaixarEntregas.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\BaixarEntregas.cs [Design]",
+              "RelativeToolTip": "..\\..\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\BaixarEntregas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:28:42.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Relat\u00F3rioMensal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\Relat\u00F3rioMensal.cs",
+              "RelativeDocumentMoniker": "..\\..\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\Relat\u00F3rioMensal.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\Relat\u00F3rioMensal.cs [Design]",
+              "RelativeToolTip": "..\\..\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\Relat\u00F3rioMensal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:49:59.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Relat\u00F3rioMensal.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\Relat\u00F3rioMensal.cs",
+              "RelativeDocumentMoniker": "..\\..\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\Relat\u00F3rioMensal.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\Relat\u00F3rioMensal.cs",
+              "RelativeToolTip": "..\\..\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\Relat\u00F3rioMensal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:52:26.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RelatorioEntregasDiario.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\RelatorioEntregasDiario.cs",
+              "RelativeDocumentMoniker": "correios\\RelatorioEntregasDiario.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\RelatorioEntregasDiario.cs*",
+              "RelativeToolTip": "..\\..\\ENTREGA INTERNA PROGRAMA 7.0\\ENTREGA INTERNA PROGRAMA 4.0\\ultima versao pc principal\\v1.2\\Nova pasta\\correios\\correios\\RelatorioEntregasDiario.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:32:47.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CalcularPrazo.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CalcularPrazo.cs",
+              "RelativeDocumentMoniker": "correios\\CalcularPrazo.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CalcularPrazo.cs",
+              "RelativeToolTip": "correios\\CalcularPrazo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:10:27.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CalcularPrazo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CalcularPrazo.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\CalcularPrazo.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CalcularPrazo.Designer.cs",
+              "RelativeToolTip": "correios\\CalcularPrazo.Designer.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAADwv6kAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:10:49.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Listarentregasbaixadas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregasbaixadas.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\Listarentregasbaixadas.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\Listarentregasbaixadas.Designer.cs",
+              "RelativeToolTip": "correios\\Listarentregasbaixadas.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAArwDEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:40:01.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaixarEntregas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\BaixarEntregas.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\BaixarEntregas.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\BaixarEntregas.Designer.cs",
+              "RelativeToolTip": "correios\\BaixarEntregas.Designer.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAjwHoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:36:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CadastroEntrega.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CadastroEntrega.Designer.cs",
+              "RelativeDocumentMoniker": "correios\\CadastroEntrega.Designer.cs",
+              "ToolTip": "C:\\Users\\AGF\\Desktop\\8.0\\correios\\correios\\CadastroEntrega.Designer.cs",
+              "RelativeToolTip": "correios\\CadastroEntrega.Designer.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAjwNwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:21:26.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

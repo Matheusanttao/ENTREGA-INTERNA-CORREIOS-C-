@@ -1,0 +1,313 @@
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\bin\Debug\correios.exe.config
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\bin\Debug\correios.exe
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\bin\Debug\correios.pdb
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.Form1.resources
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.exe
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.pdb
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\Matheus Antão\Desktop\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\correios.Buscarentregas.resources
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\CORREIOS PROGRAMA\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Buscarentregas.resources
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\PROGRAMAS FACULDADE\Programa Correios Entrega Interna\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Buscarentregas.resources
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\Estudo\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+F:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+F:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+F:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+F:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+F:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Buscarentregas.resources
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+F:\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+E:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+E:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+E:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+E:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+E:\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Buscarentregas.resources
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+E:\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Buscarentregas.resources
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+F:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Buscarentregas.resources
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+D:\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Buscarentregas.resources
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregasbaixadas.resources
+D:\pendrive[\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+D:\pendrive[\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+D:\pendrive[\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+D:\pendrive[\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+D:\pendrive[\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregasbaixadas.resources
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+D:\pendrive[\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregasbaixadas.resources
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+D:\pendrive[\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregasbaixadas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.EditarEntrega.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.EditarEntrega.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregasbaixadas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 4.0 (1)\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CalcularPrazo.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.CalcularPrazo.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.EditarEntrega.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Listarentregasbaixadas.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\ENTREGA INTERNA PROGRAMA 7.0\ENTREGA INTERNA PROGRAMA 4.0\ultima versao pc principal\v1.2\Nova pasta\correios\correios\obj\Debug\correios.RelatórioMensal.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.CalcularPrazo.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.EditarEntrega.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.Listarentregasbaixadas.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\Matheus Antão\Desktop\8.0\correios\correios\obj\Debug\correios.Relatoriotodosdias.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.exe.config
+C:\Users\AGF\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.exe.manifest
+C:\Users\AGF\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.application
+C:\Users\AGF\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.exe
+C:\Users\AGF\Desktop\8.0\correios\correios\bin\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.csproj.AssemblyReference.cache
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.BaixarEntregas.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.CadastroEntrega.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.CalcularPrazo.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.EditarEntrega.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.Listarentregas.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.Listarentregasbaixadas.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.Menu.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.Properties.Resources.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.Relatoriotodosdias.resources
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.csproj.GenerateResource.cache
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.csproj.CoreCompileInputs.cache
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\Entrega Interna.exe.manifest
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\Entrega Interna.application
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\Entrega Interna.exe
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\Entrega Interna.pdb
+C:\Users\AGF\Desktop\8.0\correios\correios\obj\Debug\correios.ExcluirLançamento.resources
